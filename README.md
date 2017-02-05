@@ -9,7 +9,7 @@
 3. 参考 .env.example 配置 .env  
 4. 将 public 目录设置为网站根目录,  
   如无法设置, 试试重写 URL, 参考 .htaccess.example  
-5. 修改 public/lento.html 文件里的标题  
+5. 修改 public/index.html 文件里的标题  
 
 
 ## 使用
